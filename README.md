@@ -11,8 +11,6 @@ I learned how to add two classes to an element, and improved my skills at format
 
 This is used to view my progress on web developement. 
 
-
-
     
     ![alt text](./assets/images/screenshot.png?raw=true "Webpage Preview")
 
