@@ -13,9 +13,8 @@ This is used to view my progress on web developement.
 
 
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+    
+    ![alt text](./assets/images/screenshot.png?raw=true "Webpage Preview")
 
 ## Credits
 
