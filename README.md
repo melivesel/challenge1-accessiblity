@@ -13,7 +13,7 @@ This is used to view my progress on web developement.
 url: https://melivesel.github.io/challenge1-accessiblity/
 
     
-    ![alt text](./assets/images/screenshot.png?raw=true "Webpage Preview")
+![alt text](./assets/images/screenshot.png)
 
 ## Credits
 
